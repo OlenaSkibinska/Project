@@ -1,0 +1,252 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "vconcat": [
+    {
+      "hconcat": [
+        {
+          "width": 800,
+          "height": 400,
+          "layer": [
+            {
+              "data": {
+                "url": "custom.geo_best.json",
+                "format": {
+                  "type": "json",
+                  "property": "features"
+                }
+              },
+              "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "fillOpacity": 0.7,
+                "stroke": "white",
+                "strokeWidth": 0.7
+              },
+              "projection": {
+                "type": "mercator"
+              }
+            },
+            {
+              "data": {
+                "url": "custom.geo_best.json",
+                "format": {
+                  "type": "json",
+                  "property": "features"
+                }
+              },
+              "title": {
+                "text": "The Geography of Suicide",
+                "titleAnchor": "start"
+              },
+              "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "fillOpacity": 0.7,
+                "stroke": "white",
+                "strokeWidth": 0.7
+              },
+              "transform": [
+                {
+                  "lookup": "properties.sovereignt",
+                  "from": {
+                    "data": {
+                      "url": "suicide_total_year.csv"
+                    },
+                    "key": "name",
+                    "fields": [
+                      "2015"
+                    ]
+                  }
+                }
+              ],
+              "projection": {
+                "type": "mercator"
+              },
+              "encoding": {
+                "color": {
+                  "field": "2015",
+                  "type": "quantitative",
+                  "scale": {
+                    "type": "ordinal",
+                    "range": [
+                      "#ffe6e6",
+                      "#ff0000",
+                      "#800000"
+                    ]
+                  },
+                  "legend": {
+                    "orient": "top-left",
+                    "padding": -10,
+                    "direction": "vertical",
+                    "title": "Suicide rate (per 100k population)"
+                  }
+                },
+                "tooltip": [
+                  {
+                    "field": "properties.sovereignt",
+                    "type": "nominal"
+                  },
+                  {
+                    "field": "2015",
+                    "type": "quantitative"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "data": {
+            "url": "suicide_top_10.csv"
+          },
+          "title": {
+            "text": "Top 10 countries of suicide rate",
+            "titleAnchor": "start"
+          },
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "2015",
+              "type": "quantitative",
+              "axis": {
+                "title": "Suicide rate (per 100k population)"
+              }
+            },
+            "y": {
+              "field": "name",
+              "type": "nominal",
+              "sort": {
+                "field": "2015",
+                "op": "average",
+                "order": "descending"
+              },
+              "axis": {
+                "title": "Countries"
+              }
+            },
+            "color": {
+              "field": "2015",
+              "type": "quantitative",
+              "scale": {
+                "type": "ordinal",
+                "range": [
+                  "#ffe6e6",
+                  "#ff0000",
+                  "#800000"
+                ]
+              },
+              "sort": {
+                "field": "2015",
+                "op": "average",
+                "order": "descending"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "hconcat": [
+        {
+          "data": {
+            "url": "suicide_2010_by-age.csv"
+          },
+          "title": "Age-standardized global suicide rates(per 100k population) by sex and generations",
+          "width": 70,
+          "height": 170,
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "sex",
+              "type": "nominal",
+              "axis": {
+                "labelAngle": 0,
+                "title": null
+              }
+            },
+            "y": {
+              "field": "suicides_100k",
+              "type": "quantitative",
+              "axis": {
+                "title": "Suicide rate (per 100k population)"
+              }
+            },
+            "color": {
+              "field": "sex",
+              "type": "nominal",
+              "scale": {
+                "range": [
+                  "#ff6699",
+                  "#6699ff"
+                ]
+              },
+              "legend": false
+            },
+            "column": {
+              "field": "year",
+              "title": null,
+              "type": "nominal",
+              "sort": [
+                "5-14",
+                "15-24",
+                "25-34",
+                "35-54",
+                "55-74",
+                "75+"
+              ]
+            },
+            "label": {
+              "labelAngel": 0
+            }
+          }
+        },
+        {
+          "width":200,
+          "height":100,
+          "data": {
+            "url": "suicide_g.csv"
+          },
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "2015",
+              "type": "quantitative",
+              "axis": {
+                "title": "Suicide rate (per 100k population)"
+              }
+            },
+            "y": {
+              "field": "generation",
+              "type": "nominal",
+              "sort": {
+                "field": "2015",
+                "op": "average",
+                "order": "descending"
+              },
+              "axis": {
+                "title": "Generation"
+              }
+            },
+            "color": {
+              "field": "2015",
+              "type": "quantitative",
+              "scale": {
+                "type": "ordinal",
+                "range": [
+                  "#ffe6e6",
+                  "#ff0000",
+                  "#800000"
+                ]
+              },
+              "legend": {
+                "orient": "bottom",
+                "direction": "horizontal",
+                "title": null
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

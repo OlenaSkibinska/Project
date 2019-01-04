@@ -1,0 +1,1057 @@
+sovereignt,year,sex,age,population,suicides_100k,gdp_per_capita,generation
+Albania,2010,male,55-74,241852,8.27,4359,Silent
+Albania,2010,male,35-54,371611,5.38,4359,Generation X
+Albania,2010,male,25-34,179720,5.01,4359,Generation X
+Albania,2010,male,75+,50767,3.94,4359,Silent
+Albania,2010,male,15-24,279508,3.58,4359,Millenials
+Albania,2010,female,25-34,183579,3.27,4359,Generation X
+Albania,2010,female,75+,64415,3.1,4359,Silent
+Albania,2010,female,35-54,394593,3.04,4359,Generation X
+Albania,2010,female,55-74,241491,2.9,4359,Silent
+Albania,2010,female,15-24,263581,2.28,4359,Millenials
+Albania,2010,female,5-14,223969,0.89,4359,Generation Z
+Albania,2010,male,5-14,240939,0.0,4359,Generation Z
+Argentina,2010,male,75+,657096,31.35,11273,Silent
+Argentina,2010,male,15-24,3455127,19.77,11273,Millenials
+Argentina,2010,male,25-34,3237957,14.98,11273,Generation X
+Argentina,2010,male,55-74,2740656,14.49,11273,Silent
+Argentina,2010,male,35-54,4648068,12.33,11273,Generation X
+Argentina,2010,female,15-24,3358103,4.47,11273,Millenials
+Argentina,2010,female,35-54,4804030,3.37,11273,Generation X
+Argentina,2010,female,25-34,3210247,3.15,11273,Generation X
+Argentina,2010,female,55-74,3212253,3.08,11273,Silent
+Argentina,2010,female,75+,1234182,2.75,11273,Silent
+Argentina,2010,male,5-14,3570316,0.92,11273,Generation Z
+Argentina,2010,female,5-14,3450419,0.58,11273,Generation Z
+Armenia,2010,male,75+,52333,11.47,3460,Silent
+Armenia,2010,male,55-74,193100,6.73,3460,Silent
+Armenia,2010,male,25-34,202936,4.93,3460,Generation X
+Armenia,2010,male,35-54,346739,4.33,3460,Generation X
+Armenia,2010,male,15-24,252152,3.17,3460,Millenials
+Armenia,2010,female,55-74,253182,2.76,3460,Silent
+Armenia,2010,female,75+,81770,2.45,3460,Silent
+Armenia,2010,female,5-14,167142,1.2,3460,Generation Z
+Armenia,2010,female,35-54,427571,1.17,3460,Generation X
+Armenia,2010,male,5-14,191722,1.04,3460,Generation Z
+Armenia,2010,female,15-24,270727,0.74,3460,Millenials
+Armenia,2010,female,25-34,236851,0.42,3460,Generation X
+Aruba,2010,male,35-54,15543,25.74,25974,Generation X
+Aruba,2010,male,55-74,8660,23.09,25974,Silent
+Aruba,2010,female,55-74,10186,9.82,25974,Silent
+Aruba,2010,female,15-24,6031,0.0,25974,Millenials
+Aruba,2010,female,25-34,6488,0.0,25974,Generation X
+Aruba,2010,female,35-54,17826,0.0,25974,Generation X
+Aruba,2010,female,5-14,7148,0.0,25974,Generation Z
+Aruba,2010,female,75+,2264,0.0,25974,Silent
+Aruba,2010,male,15-24,6437,0.0,25974,Millenials
+Aruba,2010,male,25-34,5568,0.0,25974,Generation X
+Aruba,2010,male,5-14,7414,0.0,25974,Generation Z
+Aruba,2010,male,75+,1441,0.0,25974,Silent
+Australia,2010,male,35-54,3076853,26.52,54887,Generation X
+Australia,2010,male,75+,582009,25.94,54887,Silent
+Australia,2010,male,25-34,1606526,19.36,54887,Generation X
+Australia,2010,male,55-74,2051197,17.55,54887,Silent
+Australia,2010,male,15-24,1618860,13.71,54887,Millenials
+Australia,2010,female,35-54,3132534,7.28,54887,Generation X
+Australia,2010,female,25-34,1579905,5.95,54887,Generation X
+Australia,2010,female,75+,805401,5.34,54887,Silent
+Australia,2010,female,15-24,1521652,5.26,54887,Millenials
+Australia,2010,female,55-74,2103428,4.94,54887,Silent
+Australia,2010,male,5-14,1420846,0.49,54887,Generation Z
+Australia,2010,female,5-14,1348336,0.3,54887,Generation Z
+Austria,2010,male,75+,240431,74.87,49181,Silent
+Austria,2010,male,55-74,838208,34.24,49181,Silent
+Austria,2010,male,35-54,1296607,25.07,49181,Generation X
+Austria,2010,male,15-24,518657,17.55,49181,Millenials
+Austria,2010,male,25-34,542986,15.65,49181,Generation X
+Austria,2010,female,75+,431151,14.38,49181,Silent
+Austria,2010,female,55-74,923411,9.75,49181,Silent
+Austria,2010,female,35-54,1291400,7.9,49181,Generation X
+Austria,2010,female,25-34,539299,4.64,49181,Generation X
+Austria,2010,female,15-24,499638,2.8,49181,Millenials
+Austria,2010,male,5-14,433795,0.46,49181,Generation Z
+Austria,2010,female,5-14,412838,0.24,49181,Generation Z
+Bahamas,2010,male,75+,3090,32.36,30239,Silent
+Bahamas,2010,female,15-24,31792,6.29,30239,Millenials
+Bahamas,2010,male,35-54,50326,5.96,30239,Generation X
+Bahamas,2010,male,55-74,21188,4.72,30239,Silent
+Bahamas,2010,female,55-74,25150,3.98,30239,Silent
+Bahamas,2010,male,15-24,31968,3.13,30239,Millenials
+Bahamas,2010,female,35-54,53312,1.88,30239,Generation X
+Bahamas,2010,female,25-34,28521,0.0,30239,Generation X
+Bahamas,2010,female,5-14,26732,0.0,30239,Generation Z
+Bahamas,2010,female,75+,5772,0.0,30239,Silent
+Bahamas,2010,male,25-34,28398,0.0,30239,Generation X
+Bahamas,2010,male,5-14,27620,0.0,30239,Generation Z
+Bahrain,2010,male,35-54,252232,3.17,22572,Generation X
+Bahrain,2010,male,25-34,235591,2.55,22572,Generation X
+Bahrain,2010,male,55-74,41999,2.38,22572,Silent
+Bahrain,2010,female,35-54,125709,1.59,22572,Generation X
+Bahrain,2010,female,15-24,80571,1.24,22572,Millenials
+Bahrain,2010,female,25-34,104368,0.96,22572,Generation X
+Bahrain,2010,female,5-14,77140,0.0,22572,Generation Z
+Bahrain,2010,female,55-74,27834,0.0,22572,Silent
+Bahrain,2010,female,75+,4625,0.0,22572,Silent
+Bahrain,2010,male,15-24,103388,0.0,22572,Millenials
+Bahrain,2010,male,5-14,81414,0.0,22572,Generation Z
+Bahrain,2010,male,75+,4289,0.0,22572,Silent
+Barbados,2010,male,35-54,39379,7.62,17034,Generation X
+Barbados,2010,female,15-24,18739,0.0,17034,Millenials
+Barbados,2010,female,25-34,19612,0.0,17034,Generation X
+Barbados,2010,female,35-54,43369,0.0,17034,Generation X
+Barbados,2010,female,5-14,18590,0.0,17034,Generation Z
+Barbados,2010,female,55-74,26589,0.0,17034,Silent
+Barbados,2010,female,75+,9853,0.0,17034,Silent
+Barbados,2010,male,15-24,18747,0.0,17034,Millenials
+Barbados,2010,male,25-34,18826,0.0,17034,Generation X
+Barbados,2010,male,5-14,19462,0.0,17034,Generation Z
+Barbados,2010,male,55-74,22675,0.0,17034,Silent
+Barbados,2010,male,75+,6086,0.0,17034,Silent
+Belarus,2010,male,75+,158977,72.34,6371,Silent
+Belarus,2010,male,35-54,1353782,64.19,6371,Generation X
+Belarus,2010,male,55-74,744533,61.52,6371,Silent
+Belarus,2010,male,25-34,723856,52.77,6371,Generation X
+Belarus,2010,male,15-24,707657,33.91,6371,Millenials
+Belarus,2010,female,75+,432426,14.34,6371,Silent
+Belarus,2010,female,35-54,1483086,9.78,6371,Generation X
+Belarus,2010,female,25-34,715558,8.39,6371,Generation X
+Belarus,2010,female,55-74,1092687,7.6,6371,Silent
+Belarus,2010,female,15-24,668827,5.83,6371,Millenials
+Belarus,2010,male,5-14,462298,1.08,6371,Generation Z
+Belarus,2010,female,5-14,437506,0.23,6371,Generation Z
+Belgium,2010,male,75+,354037,51.69,47355,Silent
+Belgium,2010,male,35-54,1576828,39.45,47355,Generation X
+Belgium,2010,male,55-74,1084719,32.82,47355,Silent
+Belgium,2010,male,25-34,696461,26.42,47355,Generation X
+Belgium,2010,female,35-54,1548246,15.7,47355,Generation X
+Belgium,2010,female,55-74,1156036,14.96,47355,Silent
+Belgium,2010,male,15-24,663725,14.77,47355,Millenials
+Belgium,2010,female,75+,586690,10.74,47355,Silent
+Belgium,2010,female,25-34,693304,7.21,47355,Generation X
+Belgium,2010,female,15-24,647625,4.94,47355,Millenials
+Belgium,2010,male,5-14,614697,1.14,47355,Generation Z
+Belgium,2010,female,5-14,588803,0.34,47355,Generation Z
+Belize,2010,male,55-74,11553,17.31,4923,Silent
+Belize,2010,male,25-34,24053,16.63,4923,Generation X
+Belize,2010,male,35-54,32734,15.27,4923,Generation X
+Belize,2010,male,15-24,32338,6.18,4923,Millenials
+Belize,2010,female,35-54,32852,6.09,4923,Generation X
+Belize,2010,female,15-24,32738,0.0,4923,Millenials
+Belize,2010,female,25-34,25416,0.0,4923,Generation X
+Belize,2010,female,5-14,38304,0.0,4923,Generation Z
+Belize,2010,female,55-74,10522,0.0,4923,Silent
+Belize,2010,female,75+,2363,0.0,4923,Silent
+Belize,2010,male,5-14,38669,0.0,4923,Generation Z
+Belize,2010,male,75+,2254,0.0,4923,Silent
+Brazil,2010,male,75+,1882113,19.02,12161,Silent
+Brazil,2010,male,55-74,10813388,11.43,12161,Silent
+Brazil,2010,male,25-34,17023785,10.76,12161,Generation X
+Brazil,2010,male,35-54,24501254,10.55,12161,Generation X
+Brazil,2010,male,15-24,17726866,7.27,12161,Millenials
+Brazil,2010,female,35-54,26004856,3.21,12161,Generation X
+Brazil,2010,female,55-74,12605588,2.69,12161,Silent
+Brazil,2010,female,75+,2940677,2.69,12161,Silent
+Brazil,2010,female,25-34,17054489,2.37,12161,Generation X
+Brazil,2010,female,15-24,17237481,2.13,12161,Millenials
+Brazil,2010,male,5-14,17242386,0.32,12161,Generation Z
+Brazil,2010,female,5-14,16596829,0.29,12161,Generation Z
+Bulgaria,2010,male,75+,224566,61.01,7066,Silent
+Bulgaria,2010,male,55-74,799085,27.16,7066,Silent
+Bulgaria,2010,male,35-54,1058086,19.09,7066,Generation X
+Bulgaria,2010,female,75+,366672,16.36,7066,Silent
+Bulgaria,2010,male,25-34,566462,10.06,7066,Generation X
+Bulgaria,2010,female,55-74,979427,7.56,7066,Silent
+Bulgaria,2010,male,15-24,467481,7.49,7066,Millenials
+Bulgaria,2010,female,35-54,1061049,5.37,7066,Generation X
+Bulgaria,2010,female,25-34,537199,2.05,7066,Generation X
+Bulgaria,2010,female,15-24,444943,1.8,7066,Millenials
+Bulgaria,2010,male,5-14,338094,0.3,7066,Generation Z
+Bulgaria,2010,female,5-14,319676,0.0,7066,Generation Z
+Canada,2010,male,35-54,5088099,25.39,49974,Generation X
+Canada,2010,male,75+,917671,21.79,49974,Silent
+Canada,2010,male,55-74,3333897,20.7,49974,Silent
+Canada,2010,male,25-34,2366854,17.28,49974,Generation X
+Canada,2010,male,15-24,2357806,15.73,49974,Millenials
+Canada,2010,female,35-54,5044926,7.97,49974,Generation X
+Canada,2010,female,55-74,3510692,6.75,49974,Silent
+Canada,2010,female,25-34,2335884,6.59,49974,Generation X
+Canada,2010,female,15-24,2239759,5.13,49974,Millenials
+Canada,2010,female,75+,1347679,3.64,49974,Silent
+Canada,2010,male,5-14,1922599,0.99,49974,Generation Z
+Canada,2010,female,5-14,1820274,0.71,49974,Generation Z
+Chile,2010,male,75+,241464,40.59,13874,Silent
+Chile,2010,male,35-54,2329802,26.05,13874,Generation X
+Chile,2010,male,25-34,1289792,23.8,13874,Generation X
+Chile,2010,male,55-74,1162662,23.48,13874,Silent
+Chile,2010,male,15-24,1442868,21.83,13874,Millenials
+Chile,2010,female,15-24,1391250,6.47,13874,Millenials
+Chile,2010,female,35-54,2348223,6.39,13874,Generation X
+Chile,2010,female,25-34,1257779,6.2,13874,Generation X
+Chile,2010,female,55-74,1307594,3.44,13874,Silent
+Chile,2010,female,75+,404348,2.47,13874,Silent
+Chile,2010,male,5-14,1311312,1.37,13874,Generation Z
+Chile,2010,female,5-14,1264757,0.79,13874,Generation Z
+Colombia,2010,male,75+,418296,15.54,6836,Silent
+Colombia,2010,male,25-34,3779392,11.54,6836,Generation X
+Colombia,2010,male,15-24,4274849,11.23,6836,Millenials
+Colombia,2010,male,55-74,2337537,9.63,6836,Silent
+Colombia,2010,male,35-54,5646115,8.2,6836,Generation X
+Colombia,2010,female,15-24,4154664,4.5,6836,Millenials
+Colombia,2010,female,25-34,3841659,2.03,6836,Generation X
+Colombia,2010,female,35-54,6052417,1.19,6836,Generation X
+Colombia,2010,male,5-14,4178908,0.98,6836,Generation Z
+Colombia,2010,female,5-14,4010759,0.97,6836,Generation Z
+Colombia,2010,female,75+,594329,0.84,6836,Silent
+Colombia,2010,female,55-74,2700178,0.59,6836,Silent
+Costa Rica,2010,male,25-34,371498,19.92,8906,Generation X
+Costa Rica,2010,male,35-54,581171,18.24,8906,Generation X
+Costa Rica,2010,male,55-74,274921,13.09,8906,Silent
+Costa Rica,2010,male,75+,57885,12.09,8906,Silent
+Costa Rica,2010,male,15-24,420069,9.52,8906,Millenials
+Costa Rica,2010,female,25-34,364253,3.29,8906,Generation X
+Costa Rica,2010,female,35-54,592166,2.7,8906,Generation X
+Costa Rica,2010,female,15-24,404425,2.47,8906,Millenials
+Costa Rica,2010,female,55-74,287471,1.74,8906,Silent
+Costa Rica,2010,male,5-14,386778,1.29,8906,Generation Z
+Costa Rica,2010,female,5-14,369792,0.0,8906,Generation Z
+Costa Rica,2010,female,75+,74234,0.0,8906,Silent
+Croatia,2010,male,75+,114205,86.69,14232,Silent
+Croatia,2010,male,55-74,461893,46.55,14232,Silent
+Croatia,2010,male,35-54,621977,29.9,14232,Generation X
+Croatia,2010,female,75+,221668,20.75,14232,Silent
+Croatia,2010,male,15-24,272848,14.66,14232,Millenials
+Croatia,2010,male,25-34,316471,13.9,14232,Generation X
+Croatia,2010,female,55-74,541827,13.84,14232,Silent
+Croatia,2010,female,35-54,627682,7.97,14232,Generation X
+Croatia,2010,female,15-24,261670,4.97,14232,Millenials
+Croatia,2010,female,25-34,306249,2.29,14232,Generation X
+Croatia,2010,female,5-14,222940,0.45,14232,Generation Z
+Croatia,2010,male,5-14,234533,0.0,14232,Generation Z
+Cuba,2010,male,75+,263320,78.23,5997,Silent
+Cuba,2010,male,55-74,972763,38.45,5997,Silent
+Cuba,2010,male,35-54,1899890,25.05,5997,Generation X
+Cuba,2010,male,25-34,710089,14.36,5997,Generation X
+Cuba,2010,female,55-74,1005594,14.12,5997,Silent
+Cuba,2010,female,75+,340480,11.75,5997,Silent
+Cuba,2010,male,15-24,817305,8.2,5997,Millenials
+Cuba,2010,female,35-54,1893737,5.54,5997,Generation X
+Cuba,2010,female,25-34,688810,2.47,5997,Generation X
+Cuba,2010,female,15-24,771457,2.33,5997,Millenials
+Cuba,2010,female,5-14,660046,1.06,5997,Generation Z
+Cuba,2010,male,5-14,702357,0.57,5997,Generation Z
+Cyprus,2010,male,75+,19667,15.25,32477,Silent
+Cyprus,2010,male,25-34,65092,10.75,32477,Generation X
+Cyprus,2010,male,55-74,75567,9.26,32477,Silent
+Cyprus,2010,male,35-54,107241,8.39,32477,Generation X
+Cyprus,2010,male,15-24,67097,5.96,32477,Millenials
+Cyprus,2010,female,15-24,64577,4.65,32477,Millenials
+Cyprus,2010,female,35-54,119200,3.36,32477,Generation X
+Cyprus,2010,female,55-74,79168,1.26,32477,Silent
+Cyprus,2010,female,25-34,69866,0.0,32477,Generation X
+Cyprus,2010,female,5-14,45354,0.0,32477,Generation Z
+Cyprus,2010,female,75+,26570,0.0,32477,Silent
+Cyprus,2010,male,5-14,47682,0.0,32477,Generation Z
+Czech Republic,2010,male,75+,243211,47.28,20862,Silent
+Czech Republic,2010,male,55-74,1121705,35.13,20862,Silent
+Czech Republic,2010,male,35-54,1499075,31.55,20862,Generation X
+Czech Republic,2010,male,25-34,858416,19.57,20862,Generation X
+Czech Republic,2010,male,15-24,665538,14.12,20862,Millenials
+Czech Republic,2010,female,75+,453417,8.82,20862,Silent
+Czech Republic,2010,female,55-74,1288749,6.52,20862,Silent
+Czech Republic,2010,female,35-54,1445352,6.02,20862,Generation X
+Czech Republic,2010,female,25-34,805752,3.23,20862,Generation X
+Czech Republic,2010,female,15-24,629937,3.17,20862,Millenials
+Czech Republic,2010,male,5-14,479853,0.21,20862,Generation Z
+Czech Republic,2010,female,5-14,454268,0.0,20862,Generation Z
+Denmark,2010,male,75+,153231,39.81,61711,Silent
+Denmark,2010,male,55-74,613233,23.16,61711,Silent
+Denmark,2010,male,35-54,791338,17.94,61711,Generation X
+Denmark,2010,male,25-34,329780,13.04,61711,Generation X
+Denmark,2010,female,75+,236409,9.31,61711,Silent
+Denmark,2010,female,55-74,634607,8.82,61711,Silent
+Denmark,2010,female,35-54,776699,8.24,61711,Generation X
+Denmark,2010,male,15-24,349175,4.87,61711,Millenials
+Denmark,2010,female,15-24,333696,3.0,61711,Millenials
+Denmark,2010,female,25-34,327722,1.83,61711,Generation X
+Denmark,2010,female,5-14,327790,0.0,61711,Generation Z
+Denmark,2010,male,5-14,344105,0.0,61711,Generation Z
+Ecuador,2010,male,15-24,1436267,14.9,5206,Millenials
+Ecuador,2010,male,25-34,1181648,14.47,5206,Generation X
+Ecuador,2010,male,35-54,1639225,10.07,5206,Generation X
+Ecuador,2010,male,55-74,713198,9.53,5206,Silent
+Ecuador,2010,male,75+,160404,8.73,5206,Silent
+Ecuador,2010,female,15-24,1395797,8.1,5206,Millenials
+Ecuador,2010,female,25-34,1175139,5.11,5206,Generation X
+Ecuador,2010,female,75+,200768,2.99,5206,Silent
+Ecuador,2010,female,55-74,766861,2.35,5206,Silent
+Ecuador,2010,female,35-54,1675740,2.33,5206,Generation X
+Ecuador,2010,male,5-14,1536680,1.69,5206,Generation Z
+Ecuador,2010,female,5-14,1478558,1.22,5206,Generation Z
+El Salvador,2010,male,25-34,400088,23.24,3318,Generation X
+El Salvador,2010,male,55-74,294119,15.3,3318,Silent
+El Salvador,2010,male,75+,73884,14.89,3318,Silent
+El Salvador,2010,male,15-24,596366,13.58,3318,Millenials
+El Salvador,2010,male,35-54,560083,13.03,3318,Generation X
+El Salvador,2010,female,15-24,621228,7.08,3318,Millenials
+El Salvador,2010,female,25-34,486153,3.91,3318,Generation X
+El Salvador,2010,female,35-54,715456,2.8,3318,Generation X
+El Salvador,2010,female,75+,96291,2.08,3318,Silent
+El Salvador,2010,female,5-14,658707,1.06,3318,Generation Z
+El Salvador,2010,female,55-74,372845,0.8,3318,Silent
+El Salvador,2010,male,5-14,685233,0.15,3318,Generation Z
+Estonia,2010,male,75+,28755,62.6,15540,Silent
+Estonia,2010,male,55-74,120465,44.83,15540,Silent
+Estonia,2010,male,35-54,179395,34.0,15540,Generation X
+Estonia,2010,male,25-34,96230,29.1,15540,Generation X
+Estonia,2010,male,15-24,91065,21.96,15540,Millenials
+Estonia,2010,female,75+,75665,15.86,15540,Silent
+Estonia,2010,female,55-74,172395,8.12,15540,Silent
+Estonia,2010,female,25-34,91330,5.47,15540,Generation X
+Estonia,2010,female,35-54,187560,4.8,15540,Generation X
+Estonia,2010,female,15-24,85755,2.33,15540,Millenials
+Estonia,2010,female,5-14,61030,0.0,15540,Generation Z
+Estonia,2010,male,5-14,64580,0.0,15540,Generation Z
+Finland,2010,male,25-34,351262,33.88,48939,Generation X
+Finland,2010,male,75+,153947,33.78,48939,Silent
+Finland,2010,male,35-54,719196,33.51,48939,Generation X
+Finland,2010,male,55-74,616801,32.43,48939,Silent
+Finland,2010,male,15-24,336807,31.18,48939,Millenials
+Finland,2010,female,25-34,332711,11.12,48939,Generation X
+Finland,2010,female,35-54,701523,10.98,48939,Generation X
+Finland,2010,female,55-74,663064,10.41,48939,Silent
+Finland,2010,female,15-24,322681,9.3,48939,Millenials
+Finland,2010,female,75+,277369,8.29,48939,Silent
+Finland,2010,male,5-14,300513,0.33,48939,Generation Z
+Finland,2010,female,5-14,287620,0.0,48939,Generation Z
+France,2010,male,75+,2081818,65.04,44747,Silent
+France,2010,male,35-54,8518205,36.6,44747,Generation X
+France,2010,male,55-74,6187723,31.61,44747,Silent
+France,2010,male,25-34,3829316,21.02,44747,Generation X
+France,2010,female,75+,3538923,13.11,44747,Silent
+France,2010,female,55-74,6785286,13.1,44747,Silent
+France,2010,female,35-54,8736585,12.29,44747,Generation X
+France,2010,male,15-24,3937209,9.78,44747,Millenials
+France,2010,female,25-34,3906931,4.53,44747,Generation X
+France,2010,female,15-24,3823806,3.06,44747,Millenials
+France,2010,male,5-14,3947453,0.58,44747,Generation Z
+France,2010,female,5-14,3763028,0.45,44747,Generation Z
+Georgia,2010,male,55-74,350500,9.13,2775,Silent
+Georgia,2010,male,75+,96900,7.22,2775,Silent
+Georgia,2010,male,35-54,590800,4.91,2775,Generation X
+Georgia,2010,male,25-34,337200,4.74,2775,Generation X
+Georgia,2010,male,15-24,351600,3.13,2775,Millenials
+Georgia,2010,female,75+,180900,2.76,2775,Silent
+Georgia,2010,female,55-74,465100,1.29,2775,Silent
+Georgia,2010,female,35-54,660000,0.76,2775,Generation X
+Georgia,2010,male,5-14,254800,0.39,2775,Generation Z
+Georgia,2010,female,15-24,338800,0.0,2775,Millenials
+Georgia,2010,female,25-34,338000,0.0,2775,Generation X
+Georgia,2010,female,5-14,229200,0.0,2775,Generation Z
+Germany,2010,male,75+,2742959,46.56,43614,Silent
+Germany,2010,male,55-74,9350157,25.22,43614,Silent
+Germany,2010,male,35-54,12731842,20.46,43614,Generation X
+Germany,2010,male,25-34,4940288,14.88,43614,Generation X
+Germany,2010,female,75+,4669323,12.59,43614,Silent
+Germany,2010,male,15-24,4702588,10.08,43614,Millenials
+Germany,2010,female,55-74,10027136,8.49,43614,Silent
+Germany,2010,female,35-54,12316695,6.54,43614,Generation X
+Germany,2010,female,25-34,4807946,3.68,43614,Generation X
+Germany,2010,female,15-24,4489057,2.94,43614,Millenials
+Germany,2010,male,5-14,3883512,0.57,43614,Generation Z
+Germany,2010,female,5-14,3687564,0.16,43614,Generation Z
+Greece,2010,male,75+,453020,12.14,27886,Silent
+Greece,2010,male,35-54,1685691,7.59,27886,Generation X
+Greece,2010,male,55-74,1164937,7.3,27886,Silent
+Greece,2010,male,25-34,845373,6.27,27886,Generation X
+Greece,2010,male,15-24,612178,2.45,27886,Millenials
+Greece,2010,female,75+,599568,1.0,27886,Silent
+Greece,2010,female,35-54,1661514,0.84,27886,Generation X
+Greece,2010,female,55-74,1311605,0.84,27886,Silent
+Greece,2010,female,25-34,777901,0.77,27886,Generation X
+Greece,2010,female,15-24,570284,0.7,27886,Millenials
+Greece,2010,female,5-14,510970,0.0,27886,Generation Z
+Greece,2010,male,5-14,542343,0.0,27886,Generation Z
+Grenada,2010,female,15-24,11637,0.0,8118,Millenials
+Grenada,2010,female,25-34,8598,0.0,8118,Generation X
+Grenada,2010,female,35-54,10509,0.0,8118,Generation X
+Grenada,2010,female,5-14,9347,0.0,8118,Generation Z
+Grenada,2010,female,55-74,5381,0.0,8118,Silent
+Grenada,2010,female,75+,2179,0.0,8118,Silent
+Grenada,2010,male,15-24,11871,0.0,8118,Millenials
+Grenada,2010,male,25-34,9006,0.0,8118,Generation X
+Grenada,2010,male,35-54,10726,0.0,8118,Generation X
+Grenada,2010,male,5-14,9754,0.0,8118,Generation Z
+Grenada,2010,male,55-74,4715,0.0,8118,Silent
+Grenada,2010,male,75+,1257,0.0,8118,Silent
+Guatemala,2010,male,25-34,1073765,7.08,3260,Generation X
+Guatemala,2010,male,35-54,1056351,6.53,3260,Generation X
+Guatemala,2010,male,15-24,1542758,5.9,3260,Millenials
+Guatemala,2010,male,55-74,462550,4.97,3260,Silent
+Guatemala,2010,male,75+,112524,4.44,3260,Silent
+Guatemala,2010,female,15-24,1526942,2.82,3260,Millenials
+Guatemala,2010,female,25-34,1148170,1.83,3260,Generation X
+Guatemala,2010,female,35-54,1266987,0.63,3260,Generation X
+Guatemala,2010,female,55-74,543090,0.55,3260,Silent
+Guatemala,2010,female,5-14,1868422,0.37,3260,Generation Z
+Guatemala,2010,male,5-14,1942723,0.31,3260,Generation Z
+Guatemala,2010,female,75+,137869,0.0,3260,Silent
+Guyana,2010,male,75+,4885,102.35,3384,Silent
+Guyana,2010,male,35-54,89147,89.74,3384,Generation X
+Guyana,2010,male,25-34,53501,56.07,3384,Generation X
+Guyana,2010,male,15-24,68249,39.56,3384,Millenials
+Guyana,2010,male,55-74,32734,36.66,3384,Silent
+Guyana,2010,female,15-24,68563,30.63,3384,Millenials
+Guyana,2010,female,25-34,56716,19.39,3384,Generation X
+Guyana,2010,female,55-74,36294,11.02,3384,Silent
+Guyana,2010,female,35-54,86183,9.28,3384,Generation X
+Guyana,2010,female,5-14,82511,6.06,3384,Generation Z
+Guyana,2010,male,5-14,86692,2.31,3384,Generation Z
+Guyana,2010,female,75+,6350,0.0,3384,Silent
+Hungary,2010,male,75+,238269,101.57,13761,Silent
+Hungary,2010,male,55-74,983463,68.23,13761,Silent
+Hungary,2010,male,35-54,1360114,55.88,13761,Generation X
+Hungary,2010,male,25-34,780872,24.33,13761,Generation X
+Hungary,2010,female,75+,499021,21.84,13761,Silent
+Hungary,2010,female,55-74,1293957,16.23,13761,Silent
+Hungary,2010,female,35-54,1386313,12.26,13761,Generation X
+Hungary,2010,male,15-24,635049,12.13,13761,Millenials
+Hungary,2010,female,25-34,748440,4.94,13761,Generation X
+Hungary,2010,female,15-24,607500,3.29,13761,Millenials
+Hungary,2010,male,5-14,503475,0.4,13761,Generation Z
+Hungary,2010,female,5-14,477532,0.21,13761,Generation Z
+Iceland,2010,male,75+,7930,37.83,45179,Silent
+Iceland,2010,male,25-34,23610,33.88,45179,Generation X
+Iceland,2010,male,55-74,26976,25.95,45179,Silent
+Iceland,2010,male,35-54,43584,25.24,45179,Generation X
+Iceland,2010,male,15-24,23905,25.1,45179,Millenials
+Iceland,2010,female,35-54,42526,11.76,45179,Generation X
+Iceland,2010,female,55-74,26898,11.15,45179,Silent
+Iceland,2010,male,5-14,21935,4.56,45179,Generation Z
+Iceland,2010,female,25-34,22558,4.43,45179,Generation X
+Iceland,2010,female,15-24,22907,4.37,45179,Millenials
+Iceland,2010,female,5-14,21185,0.0,45179,Generation Z
+Iceland,2010,female,75+,10606,0.0,45179,Silent
+Ireland,2010,male,35-54,644763,25.75,52042,Generation X
+Ireland,2010,male,15-24,301996,22.19,52042,Millenials
+Ireland,2010,male,25-34,391033,19.18,52042,Generation X
+Ireland,2010,male,55-74,388038,17.01,52042,Silent
+Ireland,2010,male,75+,87646,10.27,52042,Silent
+Ireland,2010,female,55-74,394633,6.33,52042,Silent
+Ireland,2010,female,35-54,638166,5.95,52042,Generation X
+Ireland,2010,female,25-34,397846,4.78,52042,Generation X
+Ireland,2010,female,15-24,296543,3.71,52042,Millenials
+Ireland,2010,female,75+,128216,3.12,52042,Silent
+Ireland,2010,female,5-14,290321,1.03,52042,Generation Z
+Ireland,2010,male,5-14,305656,0.98,52042,Generation Z
+Israel,2010,male,75+,145554,27.48,34104,Silent
+Israel,2010,male,55-74,515880,18.03,34104,Silent
+Israel,2010,male,35-54,854628,13.92,34104,Generation X
+Israel,2010,male,25-34,561408,13.72,34104,Generation X
+Israel,2010,male,15-24,600681,10.49,34104,Millenials
+Israel,2010,female,75+,213458,4.22,34104,Silent
+Israel,2010,female,55-74,580202,3.79,34104,Silent
+Israel,2010,female,35-54,882268,3.74,34104,Generation X
+Israel,2010,female,15-24,576967,1.73,34104,Millenials
+Israel,2010,female,25-34,559584,1.61,34104,Generation X
+Israel,2010,female,5-14,662543,0.45,34104,Generation Z
+Israel,2010,male,5-14,696652,0.29,34104,Generation Z
+Italy,2010,male,75+,2295316,25.75,36869,Silent
+Italy,2010,male,55-74,6491779,14.54,36869,Silent
+Italy,2010,male,35-54,9238959,11.88,36869,Generation X
+Italy,2010,male,25-34,3839282,8.88,36869,Generation X
+Italy,2010,male,15-24,3116429,4.62,36869,Millenials
+Italy,2010,female,75+,3782232,4.26,36869,Silent
+Italy,2010,female,55-74,7158216,4.11,36869,Silent
+Italy,2010,female,35-54,9323044,3.13,36869,Generation X
+Italy,2010,female,25-34,3781490,2.17,36869,Generation X
+Italy,2010,female,15-24,2961065,1.05,36869,Millenials
+Italy,2010,male,5-14,2906335,0.34,36869,Generation Z
+Italy,2010,female,5-14,2743696,0.04,36869,Generation Z
+Jamaica,2010,male,25-34,202735,0.49,5100,Generation X
+Jamaica,2010,male,5-14,270432,0.37,5100,Generation Z
+Jamaica,2010,male,35-54,328839,0.3,5100,Generation X
+Jamaica,2010,female,15-24,260373,0.0,5100,Millenials
+Jamaica,2010,female,25-34,215163,0.0,5100,Generation X
+Jamaica,2010,female,35-54,345682,0.0,5100,Generation X
+Jamaica,2010,female,5-14,258271,0.0,5100,Generation Z
+Jamaica,2010,female,55-74,163081,0.0,5100,Silent
+Jamaica,2010,female,75+,62329,0.0,5100,Silent
+Jamaica,2010,male,15-24,271743,0.0,5100,Millenials
+Jamaica,2010,male,55-74,159798,0.0,5100,Silent
+Jamaica,2010,male,75+,48206,0.0,5100,Silent
+Japan,2010,male,55-74,16402437,45.52,47059,Silent
+Japan,2010,male,35-54,17131261,42.91,47059,Generation X
+Japan,2010,male,75+,5345432,40.93,47059,Silent
+Japan,2010,male,25-34,7822984,32.51,47059,Generation X
+Japan,2010,male,15-24,6324856,20.79,47059,Millenials
+Japan,2010,female,75+,8804107,19.15,47059,Silent
+Japan,2010,female,55-74,17525806,16.43,47059,Silent
+Japan,2010,female,35-54,16781836,14.33,47059,Generation X
+Japan,2010,female,25-34,7545642,13.36,47059,Generation X
+Japan,2010,female,15-24,6008624,8.45,47059,Millenials
+Japan,2010,male,5-14,5855595,0.72,47059,Generation Z
+Japan,2010,female,5-14,5578687,0.38,47059,Generation Z
+Kazakhstan,2010,male,75+,113390,63.5,10062,Silent
+Kazakhstan,2010,male,25-34,1310211,61.67,10062,Generation X
+Kazakhstan,2010,male,35-54,2037599,54.87,10062,Generation X
+Kazakhstan,2010,male,55-74,810461,48.0,10062,Silent
+Kazakhstan,2010,male,15-24,1555580,33.94,10062,Millenials
+Kazakhstan,2010,female,75+,263531,14.8,10062,Silent
+Kazakhstan,2010,female,15-24,1549811,12.45,10062,Millenials
+Kazakhstan,2010,female,25-34,1332552,10.51,10062,Generation X
+Kazakhstan,2010,female,55-74,1144484,7.69,10062,Silent
+Kazakhstan,2010,female,35-54,2227790,7.18,10062,Generation X
+Kazakhstan,2010,male,5-14,1212500,4.04,10062,Generation Z
+Kazakhstan,2010,female,5-14,1155258,2.16,10062,Generation Z
+Kuwait,2010,male,55-74,121359,2.47,35171,Silent
+Kuwait,2010,female,25-34,351659,2.27,35171,Generation X
+Kuwait,2010,male,25-34,619392,2.1,35171,Generation X
+Kuwait,2010,male,35-54,762814,1.18,35171,Generation X
+Kuwait,2010,female,15-24,231645,0.86,35171,Millenials
+Kuwait,2010,female,35-54,387443,0.77,35171,Generation X
+Kuwait,2010,male,15-24,254945,0.39,35171,Millenials
+Kuwait,2010,female,5-14,225440,0.0,35171,Generation Z
+Kuwait,2010,female,55-74,72487,0.0,35171,Silent
+Kuwait,2010,female,75+,8964,0.0,35171,Silent
+Kuwait,2010,male,5-14,237315,0.0,35171,Generation Z
+Kuwait,2010,male,75+,8151,0.0,35171,Silent
+Kyrgyzstan,2010,male,25-34,429972,28.37,991,Generation X
+Kyrgyzstan,2010,male,75+,36816,27.16,991,Silent
+Kyrgyzstan,2010,male,35-54,597153,21.94,991,Generation X
+Kyrgyzstan,2010,male,55-74,189553,20.05,991,Silent
+Kyrgyzstan,2010,male,15-24,597408,14.4,991,Millenials
+Kyrgyzstan,2010,female,75+,64212,9.34,991,Silent
+Kyrgyzstan,2010,female,15-24,588624,6.8,991,Millenials
+Kyrgyzstan,2010,female,55-74,240446,4.57,991,Silent
+Kyrgyzstan,2010,female,35-54,635294,4.25,991,Generation X
+Kyrgyzstan,2010,female,25-34,424270,4.01,991,Generation X
+Kyrgyzstan,2010,male,5-14,526711,1.52,991,Generation Z
+Kyrgyzstan,2010,female,5-14,507097,0.79,991,Generation Z
+Latvia,2010,male,75+,43667,57.25,11951,Silent
+Latvia,2010,male,55-74,187076,56.13,11951,Silent
+Latvia,2010,male,35-54,283732,53.92,11951,Generation X
+Latvia,2010,male,25-34,145331,40.6,11951,Generation X
+Latvia,2010,male,15-24,147429,23.06,11951,Millenials
+Latvia,2010,female,55-74,281172,10.31,11951,Silent
+Latvia,2010,female,75+,120367,8.31,11951,Silent
+Latvia,2010,female,35-54,308180,5.52,11951,Generation X
+Latvia,2010,female,15-24,141468,2.83,11951,Millenials
+Latvia,2010,female,25-34,141714,1.41,11951,Generation X
+Latvia,2010,female,5-14,91477,0.0,11951,Generation Z
+Latvia,2010,male,5-14,96293,0.0,11951,Generation Z
+Lithuania,2010,male,55-74,262907,83.3,12584,Silent
+Lithuania,2010,male,35-54,430396,82.95,12584,Generation X
+Lithuania,2010,male,75+,72479,67.61,12584,Silent
+Lithuania,2010,male,25-34,198028,55.55,12584,Generation X
+Lithuania,2010,male,15-24,227810,40.82,12584,Millenials
+Lithuania,2010,female,75+,175611,23.35,12584,Silent
+Lithuania,2010,female,35-54,471491,15.27,12584,Generation X
+Lithuania,2010,female,55-74,380465,13.14,12584,Silent
+Lithuania,2010,female,15-24,218961,6.39,12584,Millenials
+Lithuania,2010,female,25-34,196906,5.59,12584,Generation X
+Lithuania,2010,female,5-14,153084,0.65,12584,Generation Z
+Lithuania,2010,male,5-14,161599,0.62,12584,Generation Z
+Luxembourg,2010,male,75+,12469,56.14,111328,Silent
+Luxembourg,2010,male,35-54,80477,29.82,111328,Generation X
+Luxembourg,2010,male,55-74,45726,10.93,111328,Silent
+Luxembourg,2010,male,15-24,30768,9.75,111328,Millenials
+Luxembourg,2010,male,25-34,36519,8.21,111328,Generation X
+Luxembourg,2010,female,35-54,77946,6.41,111328,Generation X
+Luxembourg,2010,female,55-74,46835,6.41,111328,Silent
+Luxembourg,2010,female,25-34,36069,5.54,111328,Generation X
+Luxembourg,2010,female,75+,21038,4.75,111328,Silent
+Luxembourg,2010,male,5-14,31209,3.2,111328,Generation Z
+Luxembourg,2010,female,15-24,29539,0.0,111328,Millenials
+Luxembourg,2010,female,5-14,29384,0.0,111328,Generation Z
+Maldives,2010,male,15-24,50279,1.99,7806,Millenials
+Maldives,2010,female,15-24,39026,0.0,7806,Millenials
+Maldives,2010,female,25-34,31331,0.0,7806,Generation X
+Maldives,2010,female,35-54,35077,0.0,7806,Generation X
+Maldives,2010,female,5-14,29203,0.0,7806,Generation Z
+Maldives,2010,female,55-74,12087,0.0,7806,Silent
+Maldives,2010,female,75+,2155,0.0,7806,Silent
+Maldives,2010,male,25-34,44119,0.0,7806,Generation X
+Maldives,2010,male,35-54,41732,0.0,7806,Generation X
+Maldives,2010,male,5-14,30688,0.0,7806,Generation Z
+Maldives,2010,male,55-74,12814,0.0,7806,Silent
+Maldives,2010,male,75+,3048,0.0,7806,Silent
+Malta,2010,male,35-54,56430,30.13,22132,Generation X
+Malta,2010,male,75+,10212,19.58,22132,Silent
+Malta,2010,male,15-24,29208,10.27,22132,Millenials
+Malta,2010,male,25-34,31445,9.54,22132,Generation X
+Malta,2010,male,55-74,46730,8.56,22132,Silent
+Malta,2010,female,55-74,49604,4.03,22132,Silent
+Malta,2010,female,15-24,27407,0.0,22132,Millenials
+Malta,2010,female,25-34,29274,0.0,22132,Generation X
+Malta,2010,female,35-54,54977,0.0,22132,Generation X
+Malta,2010,female,5-14,21055,0.0,22132,Generation Z
+Malta,2010,female,75+,16506,0.0,22132,Silent
+Malta,2010,male,5-14,22101,0.0,22132,Generation Z
+Mauritius,2010,male,75+,12508,31.98,8587,Silent
+Mauritius,2010,male,25-34,102081,17.63,8587,Generation X
+Mauritius,2010,male,35-54,181881,15.39,8587,Generation X
+Mauritius,2010,male,15-24,100282,14.96,8587,Millenials
+Mauritius,2010,male,55-74,81700,13.46,8587,Silent
+Mauritius,2010,female,25-34,102078,8.82,8587,Generation X
+Mauritius,2010,female,35-54,184083,4.35,8587,Generation X
+Mauritius,2010,female,55-74,93848,3.2,8587,Silent
+Mauritius,2010,female,15-24,98088,2.04,8587,Millenials
+Mauritius,2010,female,5-14,92051,0.0,8587,Generation Z
+Mauritius,2010,female,75+,21469,0.0,8587,Silent
+Mauritius,2010,male,5-14,94862,0.0,8587,Generation Z
+Mexico,2010,male,75+,1187437,13.9,9991,Silent
+Mexico,2010,male,25-34,9704369,9.65,9991,Generation X
+Mexico,2010,male,15-24,11192708,9.6,9991,Millenials
+Mexico,2010,male,35-54,13117850,9.08,9991,Generation X
+Mexico,2010,male,55-74,5353293,9.02,9991,Silent
+Mexico,2010,female,15-24,10827976,3.23,9991,Millenials
+Mexico,2010,female,25-34,9676184,1.83,9991,Generation X
+Mexico,2010,female,35-54,13887708,1.66,9991,Generation X
+Mexico,2010,female,55-74,5735458,1.08,9991,Silent
+Mexico,2010,male,5-14,11983471,0.91,9991,Generation Z
+Mexico,2010,female,5-14,11534311,0.63,9991,Generation Z
+Mexico,2010,female,75+,1675096,0.42,9991,Silent
+Netherlands,2010,male,35-54,2479310,20.01,53302,Generation X
+Netherlands,2010,male,55-74,1774913,18.71,53302,Silent
+Netherlands,2010,male,75+,440573,18.61,53302,Silent
+Netherlands,2010,male,25-34,1005583,11.44,53302,Generation X
+Netherlands,2010,male,15-24,1034368,9.38,53302,Millenials
+Netherlands,2010,female,35-54,2448571,8.49,53302,Generation X
+Netherlands,2010,female,55-74,1809756,7.9,53302,Silent
+Netherlands,2010,female,75+,714774,6.44,53302,Silent
+Netherlands,2010,female,25-34,997025,5.32,53302,Generation X
+Netherlands,2010,female,15-24,1000536,2.6,53302,Millenials
+Netherlands,2010,male,5-14,1015895,0.49,53302,Generation Z
+Netherlands,2010,female,5-14,970105,0.1,53302,Generation Z
+New Zealand,2010,male,35-54,591000,26.23,36145,Generation X
+New Zealand,2010,male,25-34,272460,23.86,36145,Generation X
+New Zealand,2010,male,15-24,326870,23.56,36145,Millenials
+New Zealand,2010,male,75+,107610,18.59,36145,Silent
+New Zealand,2010,male,55-74,387900,17.27,36145,Silent
+New Zealand,2010,female,15-24,310690,11.27,36145,Millenials
+New Zealand,2010,female,25-34,285250,10.52,36145,Generation X
+New Zealand,2010,female,35-54,635970,8.02,36145,Generation X
+New Zealand,2010,female,75+,148370,6.07,36145,Silent
+New Zealand,2010,female,55-74,406770,5.16,36145,Silent
+New Zealand,2010,female,5-14,284090,1.06,36145,Generation Z
+New Zealand,2010,male,5-14,298490,1.01,36145,Generation Z
+Nicaragua,2010,male,75+,45706,17.5,1715,Silent
+Nicaragua,2010,male,25-34,477796,17.16,1715,Generation X
+Nicaragua,2010,male,35-54,524715,13.91,1715,Generation X
+Nicaragua,2010,male,15-24,614837,13.5,1715,Millenials
+Nicaragua,2010,male,55-74,199900,11.51,1715,Silent
+Nicaragua,2010,female,15-24,594335,5.55,1715,Millenials
+Nicaragua,2010,female,25-34,497514,3.01,1715,Generation X
+Nicaragua,2010,female,35-54,599881,3.0,1715,Generation X
+Nicaragua,2010,female,55-74,238978,1.67,1715,Silent
+Nicaragua,2010,female,5-14,609040,1.15,1715,Generation Z
+Nicaragua,2010,male,5-14,642002,0.78,1715,Generation Z
+Nicaragua,2010,female,75+,62723,0.0,1715,Silent
+Norway,2010,male,75+,136494,22.71,93638,Silent
+Norway,2010,male,55-74,481582,20.56,93638,Silent
+Norway,2010,male,25-34,320142,19.37,93638,Generation X
+Norway,2010,male,35-54,709067,18.62,93638,Generation X
+Norway,2010,male,15-24,325364,18.13,93638,Millenials
+Norway,2010,female,35-54,674673,10.08,93638,Generation X
+Norway,2010,female,55-74,487412,10.05,93638,Silent
+Norway,2010,female,25-34,309282,7.76,93638,Generation X
+Norway,2010,female,75+,215798,4.63,93638,Silent
+Norway,2010,female,15-24,309730,4.2,93638,Millenials
+Norway,2010,male,5-14,313990,0.32,93638,Generation Z
+Norway,2010,female,5-14,299351,0.0,93638,Generation Z
+Oman,2010,male,35-54,460847,1.3,21337,Generation X
+Oman,2010,male,15-24,372402,1.07,21337,Millenials
+Oman,2010,male,55-74,98397,1.02,21337,Silent
+Oman,2010,male,25-34,490613,0.41,21337,Generation X
+Oman,2010,female,15-24,269317,0.0,21337,Millenials
+Oman,2010,female,25-34,268046,0.0,21337,Generation X
+Oman,2010,female,35-54,209172,0.0,21337,Generation X
+Oman,2010,female,5-14,237859,0.0,21337,Generation Z
+Oman,2010,female,55-74,65305,0.0,21337,Silent
+Oman,2010,female,75+,14260,0.0,21337,Silent
+Oman,2010,male,5-14,250444,0.0,21337,Generation Z
+Oman,2010,male,75+,11778,0.0,21337,Silent
+Panama,2010,male,75+,45741,15.3,8991,Silent
+Panama,2010,male,25-34,291915,14.05,8991,Generation X
+Panama,2010,male,35-54,441040,9.75,8991,Generation X
+Panama,2010,male,55-74,189488,8.97,8991,Silent
+Panama,2010,male,15-24,320806,6.86,8991,Millenials
+Panama,2010,female,75+,53719,3.72,8991,Silent
+Panama,2010,female,15-24,310641,3.54,8991,Millenials
+Panama,2010,female,35-54,442586,1.81,8991,Generation X
+Panama,2010,female,25-34,285498,0.0,8991,Generation X
+Panama,2010,female,5-14,340093,0.0,8991,Generation Z
+Panama,2010,female,55-74,200021,0.0,8991,Silent
+Panama,2010,male,5-14,352867,0.0,8991,Generation Z
+Paraguay,2010,male,75+,55046,10.9,3619,Silent
+Paraguay,2010,male,15-24,655068,8.24,3619,Millenials
+Paraguay,2010,male,25-34,502955,7.16,3619,Generation X
+Paraguay,2010,male,55-74,290394,6.89,3619,Silent
+Paraguay,2010,male,35-54,612290,6.86,3619,Generation X
+Paraguay,2010,female,15-24,632271,4.74,3619,Millenials
+Paraguay,2010,female,75+,69409,2.88,3619,Silent
+Paraguay,2010,female,35-54,591324,2.2,3619,Generation X
+Paraguay,2010,female,55-74,286507,2.09,3619,Silent
+Paraguay,2010,female,25-34,483820,1.86,3619,Generation X
+Paraguay,2010,female,5-14,665063,0.45,3619,Generation Z
+Paraguay,2010,male,5-14,690556,0.29,3619,Generation Z
+Philippines,2010,male,75+,463487,9.06,2412,Silent
+Philippines,2010,male,25-34,7256791,5.51,2412,Generation X
+Philippines,2010,male,15-24,9293357,5.41,2412,Millenials
+Philippines,2010,male,55-74,3743523,4.81,2412,Silent
+Philippines,2010,male,35-54,10200672,4.6,2412,Generation X
+Philippines,2010,female,15-24,8994318,2.42,2412,Millenials
+Philippines,2010,female,25-34,7063242,1.43,2412,Generation X
+Philippines,2010,female,75+,745830,1.34,2412,Silent
+Philippines,2010,female,35-54,10000163,1.07,2412,Generation X
+Philippines,2010,female,55-74,4190559,0.81,2412,Silent
+Philippines,2010,male,5-14,10738646,0.33,2412,Generation Z
+Philippines,2010,female,5-14,10070404,0.17,2412,Generation Z
+Poland,2010,male,55-74,3547737,45.69,13304,Silent
+Poland,2010,male,35-54,5226127,43.57,13304,Generation X
+Poland,2010,male,75+,811273,31.56,13304,Silent
+Poland,2010,male,25-34,3151996,25.57,13304,Generation X
+Poland,2010,male,15-24,2706883,20.21,13304,Millenials
+Poland,2010,female,55-74,4286710,7.3,13304,Silent
+Poland,2010,female,35-54,5221636,5.76,13304,Generation X
+Poland,2010,female,75+,1637613,5.74,13304,Silent
+Poland,2010,female,25-34,3050097,2.52,13304,Generation X
+Poland,2010,female,15-24,2596537,1.89,13304,Millenials
+Poland,2010,male,5-14,1944345,0.51,13304,Generation Z
+Poland,2010,female,5-14,1846837,0.32,13304,Generation Z
+Portugal,2010,male,75+,352383,66.12,23673,Silent
+Portugal,2010,male,55-74,1063945,24.16,23673,Silent
+Portugal,2010,male,35-54,1505279,17.14,23673,Generation X
+Portugal,2010,female,75+,576570,11.1,23673,Silent
+Portugal,2010,male,25-34,726634,7.98,23673,Generation X
+Portugal,2010,female,55-74,1247958,7.13,23673,Silent
+Portugal,2010,male,15-24,587910,4.59,23673,Millenials
+Portugal,2010,female,35-54,1588670,4.53,23673,Generation X
+Portugal,2010,female,25-34,746475,3.62,23673,Generation X
+Portugal,2010,female,15-24,570703,2.1,23673,Millenials
+Portugal,2010,female,5-14,536374,0.19,23673,Generation Z
+Portugal,2010,male,5-14,563727,0.18,23673,Generation Z
+Puerto Rico,2010,male,75+,85716,28.0,28267,Silent
+Puerto Rico,2010,male,35-54,454479,22.0,28267,Generation X
+Puerto Rico,2010,male,55-74,294917,20.34,28267,Silent
+Puerto Rico,2010,male,25-34,262714,14.85,28267,Generation X
+Puerto Rico,2010,male,15-24,291351,6.18,28267,Millenials
+Puerto Rico,2010,female,55-74,361444,4.15,28267,Silent
+Puerto Rico,2010,female,35-54,514121,3.89,28267,Generation X
+Puerto Rico,2010,female,75+,129428,1.55,28267,Silent
+Puerto Rico,2010,female,25-34,269903,1.48,28267,Generation X
+Puerto Rico,2010,female,15-24,286261,1.4,28267,Millenials
+Puerto Rico,2010,female,5-14,254282,0.0,28267,Generation Z
+Puerto Rico,2010,male,5-14,275763,0.0,28267,Generation Z
+Qatar,2010,male,25-34,466496,4.29,74055,Generation X
+Qatar,2010,male,15-24,189517,4.22,74055,Millenials
+Qatar,2010,male,35-54,523563,3.44,74055,Generation X
+Qatar,2010,female,25-34,113923,0.88,74055,Generation X
+Qatar,2010,female,15-24,67779,0.0,74055,Millenials
+Qatar,2010,female,35-54,115895,0.0,74055,Generation X
+Qatar,2010,female,5-14,70137,0.0,74055,Generation Z
+Qatar,2010,female,55-74,16476,0.0,74055,Silent
+Qatar,2010,female,75+,1858,0.0,74055,Silent
+Qatar,2010,male,5-14,72634,0.0,74055,Generation Z
+Qatar,2010,male,55-74,49265,0.0,74055,Silent
+Qatar,2010,male,75+,2049,0.0,74055,Silent
+Republic of Korea,2010,male,75+,631853,182.32,22994,Silent
+Republic of Korea,2010,male,55-74,3986626,82.73,22994,Silent
+Republic of Korea,2010,female,75+,1275018,71.69,22994,Silent
+Republic of Korea,2010,male,35-54,8681362,46.65,22994,Generation X
+Republic of Korea,2010,male,25-34,3936496,33.05,22994,Generation X
+Republic of Korea,2010,female,55-74,4424476,27.12,22994,Silent
+Republic of Korea,2010,female,25-34,3756347,25.88,22994,Generation X
+Republic of Korea,2010,female,35-54,8411310,20.75,22994,Generation X
+Republic of Korea,2010,male,15-24,3509674,14.05,22994,Millenials
+Republic of Korea,2010,female,15-24,3137470,11.86,22994,Millenials
+Republic of Korea,2010,female,5-14,2793259,1.22,22994,Generation Z
+Republic of Korea,2010,male,5-14,3054724,0.88,22994,Generation Z
+Romania,2010,male,55-74,1977886,35.59,8190,Silent
+Romania,2010,male,35-54,3038553,32.75,8190,Generation X
+Romania,2010,male,75+,523244,29.43,8190,Silent
+Romania,2010,male,25-34,1734890,15.16,8190,Generation X
+Romania,2010,male,15-24,1495092,11.84,8190,Millenials
+Romania,2010,female,55-74,2425485,7.3,8190,Silent
+Romania,2010,female,75+,861006,6.85,8190,Silent
+Romania,2010,female,35-54,3050480,4.82,8190,Generation X
+Romania,2010,female,15-24,1433832,2.65,8190,Millenials
+Romania,2010,female,25-34,1649535,2.18,8190,Generation X
+Romania,2010,male,5-14,1107850,0.99,8190,Generation Z
+Romania,2010,female,5-14,1050796,0.48,8190,Generation Z
+Russian Federation,2010,male,75+,2023458,74.43,11307,Silent
+Russian Federation,2010,male,25-34,11398127,57.1,11307,Generation X
+Russian Federation,2010,male,35-54,19786280,52.08,11307,Generation X
+Russian Federation,2010,male,55-74,11174530,46.34,11307,Silent
+Russian Federation,2010,male,15-24,10546669,37.3,11307,Millenials
+Russian Federation,2010,female,75+,5711389,18.23,11307,Silent
+Russian Federation,2010,female,55-74,16921727,8.0,11307,Silent
+Russian Federation,2010,female,25-34,11473939,7.78,11307,Generation X
+Russian Federation,2010,female,35-54,21894031,7.67,11307,Generation X
+Russian Federation,2010,female,15-24,10241329,7.45,11307,Millenials
+Russian Federation,2010,male,5-14,7012170,1.87,11307,Generation Z
+Russian Federation,2010,female,5-14,6682338,0.96,11307,Generation Z
+Saint Lucia,2010,male,55-74,10246,19.52,8557,Silent
+Saint Lucia,2010,female,15-24,15678,6.38,8557,Millenials
+Saint Lucia,2010,male,35-54,22681,4.41,8557,Generation X
+Saint Lucia,2010,female,25-34,13885,0.0,8557,Generation X
+Saint Lucia,2010,female,35-54,23787,0.0,8557,Generation X
+Saint Lucia,2010,female,5-14,14411,0.0,8557,Generation Z
+Saint Lucia,2010,female,55-74,10814,0.0,8557,Silent
+Saint Lucia,2010,female,75+,3852,0.0,8557,Silent
+Saint Lucia,2010,male,15-24,15545,0.0,8557,Millenials
+Saint Lucia,2010,male,25-34,13280,0.0,8557,Generation X
+Saint Lucia,2010,male,5-14,14494,0.0,8557,Generation Z
+Saint Lucia,2010,male,75+,2830,0.0,8557,Silent
+Saint Vincent and Grenadines,2010,male,25-34,8930,44.79,6809,Generation X
+Saint Vincent and Grenadines,2010,male,5-14,9962,10.04,6809,Generation Z
+Saint Vincent and Grenadines,2010,female,15-24,10100,0.0,6809,Millenials
+Saint Vincent and Grenadines,2010,female,25-34,8656,0.0,6809,Generation X
+Saint Vincent and Grenadines,2010,female,35-54,13330,0.0,6809,Generation X
+Saint Vincent and Grenadines,2010,female,5-14,9754,0.0,6809,Generation Z
+Saint Vincent and Grenadines,2010,female,55-74,5951,0.0,6809,Silent
+Saint Vincent and Grenadines,2010,female,75+,1741,0.0,6809,Silent
+Saint Vincent and Grenadines,2010,male,15-24,10289,0.0,6809,Millenials
+Saint Vincent and Grenadines,2010,male,35-54,14386,0.0,6809,Generation X
+Saint Vincent and Grenadines,2010,male,55-74,5730,0.0,6809,Silent
+Saint Vincent and Grenadines,2010,male,75+,1221,0.0,6809,Silent
+Serbia,2010,male,75+,218129,93.52,5682,Silent
+Serbia,2010,male,55-74,802176,42.51,5682,Silent
+Serbia,2010,female,75+,330923,26.59,5682,Silent
+Serbia,2010,male,35-54,982567,25.65,5682,Generation X
+Serbia,2010,male,25-34,520649,14.79,5682,Generation X
+Serbia,2010,female,55-74,929555,13.77,5682,Silent
+Serbia,2010,male,15-24,456237,6.36,5682,Millenials
+Serbia,2010,female,35-54,1008522,6.35,5682,Generation X
+Serbia,2010,female,25-34,505753,3.56,5682,Generation X
+Serbia,2010,female,15-24,434665,1.38,5682,Millenials
+Serbia,2010,female,5-14,367970,0.0,5682,Generation Z
+Serbia,2010,male,5-14,387725,0.0,5682,Generation Z
+Seychelles,2010,male,35-54,14068,28.43,11563,Generation X
+Seychelles,2010,male,25-34,8490,23.56,11563,Generation X
+Seychelles,2010,female,15-24,6988,0.0,11563,Millenials
+Seychelles,2010,female,25-34,7012,0.0,11563,Generation X
+Seychelles,2010,female,35-54,13106,0.0,11563,Generation X
+Seychelles,2010,female,5-14,6498,0.0,11563,Generation Z
+Seychelles,2010,female,55-74,5031,0.0,11563,Silent
+Seychelles,2010,female,75+,1961,0.0,11563,Silent
+Seychelles,2010,male,15-24,8078,0.0,11563,Millenials
+Seychelles,2010,male,5-14,6811,0.0,11563,Generation Z
+Seychelles,2010,male,55-74,4827,0.0,11563,Silent
+Seychelles,2010,male,75+,1015,0.0,11563,Silent
+Singapore,2010,male,75+,53300,50.66,66099,Silent
+Singapore,2010,male,55-74,315800,15.2,66099,Silent
+Singapore,2010,male,35-54,625200,15.04,66099,Generation X
+Singapore,2010,female,75+,80900,14.83,66099,Silent
+Singapore,2010,female,55-74,329000,8.51,66099,Silent
+Singapore,2010,male,25-34,274300,7.29,66099,Generation X
+Singapore,2010,female,35-54,630600,5.39,66099,Generation X
+Singapore,2010,female,15-24,252900,5.14,66099,Millenials
+Singapore,2010,female,25-34,296900,4.04,66099,Generation X
+Singapore,2010,male,15-24,257900,2.71,66099,Millenials
+Singapore,2010,male,5-14,235500,0.42,66099,Generation Z
+Singapore,2010,female,5-14,224500,0.0,66099,Generation Z
+Slovakia,2010,male,75+,94140,35.05,17387,Silent
+Slovakia,2010,male,35-54,779236,30.67,17387,Generation X
+Slovakia,2010,male,55-74,472869,30.66,17387,Silent
+Slovakia,2010,male,25-34,472324,16.09,17387,Generation X
+Slovakia,2010,male,15-24,395147,10.63,17387,Millenials
+Slovakia,2010,female,75+,192666,5.71,17387,Silent
+Slovakia,2010,female,35-54,776865,5.02,17387,Generation X
+Slovakia,2010,female,55-74,585761,4.44,17387,Silent
+Slovakia,2010,female,15-24,378865,1.85,17387,Millenials
+Slovakia,2010,female,25-34,451905,1.77,17387,Generation X
+Slovakia,2010,male,5-14,280990,1.42,17387,Generation Z
+Slovakia,2010,female,5-14,266794,0.37,17387,Generation Z
+Slovenia,2010,male,75+,50887,96.29,24689,Silent
+Slovenia,2010,male,55-74,217743,49.14,24689,Silent
+Slovenia,2010,male,35-54,315209,38.39,24689,Generation X
+Slovenia,2010,male,15-24,121143,20.64,24689,Millenials
+Slovenia,2010,male,25-34,161002,19.88,24689,Generation X
+Slovenia,2010,female,55-74,234322,14.94,24689,Silent
+Slovenia,2010,female,75+,104453,11.49,24689,Silent
+Slovenia,2010,female,35-54,297867,8.39,24689,Generation X
+Slovenia,2010,female,25-34,145274,3.44,24689,Generation X
+Slovenia,2010,male,5-14,95051,2.1,24689,Generation Z
+Slovenia,2010,female,15-24,112313,0.89,24689,Millenials
+Slovenia,2010,female,5-14,89510,0.0,24689,Generation Z
+South Africa,2010,male,75+,250341,3.6,8128,Silent
+South Africa,2010,male,25-34,4588964,2.31,8128,Generation X
+South Africa,2010,male,55-74,2069020,1.69,8128,Silent
+South Africa,2010,male,35-54,5336625,1.59,8128,Generation X
+South Africa,2010,male,15-24,5175095,1.08,8128,Millenials
+South Africa,2010,female,75+,516647,0.77,8128,Silent
+South Africa,2010,female,15-24,5099408,0.63,8128,Millenials
+South Africa,2010,female,35-54,5795087,0.48,8128,Generation X
+South Africa,2010,female,25-34,4402203,0.45,8128,Generation X
+South Africa,2010,female,55-74,2654031,0.3,8128,Silent
+South Africa,2010,male,5-14,5179048,0.15,8128,Generation Z
+South Africa,2010,female,5-14,5109731,0.04,8128,Generation Z
+Spain,2010,male,75+,1554056,31.4,32839,Silent
+Spain,2010,male,55-74,4217377,15.06,32839,Silent
+Spain,2010,male,35-54,7176013,13.53,32839,Generation X
+Spain,2010,male,25-34,3734261,7.28,32839,Generation X
+Spain,2010,female,75+,2436769,4.92,32839,Silent
+Spain,2010,female,55-74,4648706,4.45,32839,Silent
+Spain,2010,male,15-24,2455458,4.03,32839,Millenials
+Spain,2010,female,35-54,7026589,4.0,32839,Generation X
+Spain,2010,female,25-34,3550860,1.66,32839,Generation X
+Spain,2010,female,15-24,2348349,0.98,32839,Millenials
+Spain,2010,male,5-14,2285012,0.13,32839,Generation Z
+Spain,2010,female,5-14,2161906,0.0,32839,Generation Z
+Suriname,2010,male,75+,4994,100.12,9176,Silent
+Suriname,2010,female,75+,6758,59.19,9176,Silent
+Suriname,2010,male,35-54,68450,58.44,9176,Generation X
+Suriname,2010,male,25-34,39368,48.26,9176,Generation X
+Suriname,2010,male,55-74,25526,39.18,9176,Silent
+Suriname,2010,male,15-24,48112,37.41,9176,Millenials
+Suriname,2010,female,15-24,45832,21.82,9176,Millenials
+Suriname,2010,female,35-54,67102,20.86,9176,Generation X
+Suriname,2010,female,25-34,38855,18.02,9176,Generation X
+Suriname,2010,female,55-74,30084,9.97,9176,Silent
+Suriname,2010,female,5-14,48769,8.2,9176,Generation Z
+Suriname,2010,male,5-14,52202,3.83,9176,Generation Z
+Sweden,2010,male,75+,318979,31.66,55352,Silent
+Sweden,2010,male,55-74,1044678,25.18,55352,Silent
+Sweden,2010,male,35-54,1273933,21.98,55352,Generation X
+Sweden,2010,male,25-34,593020,17.87,55352,Generation X
+Sweden,2010,male,15-24,639346,13.61,55352,Millenials
+Sweden,2010,female,55-74,1063334,9.87,55352,Silent
+Sweden,2010,female,35-54,1234672,8.1,55352,Generation X
+Sweden,2010,female,75+,480218,7.08,55352,Silent
+Sweden,2010,female,25-34,564791,5.49,55352,Generation X
+Sweden,2010,female,15-24,607958,5.1,55352,Millenials
+Sweden,2010,female,5-14,487899,0.41,55352,Generation Z
+Sweden,2010,male,5-14,514297,0.19,55352,Generation Z
+Switzerland,2010,male,75+,239990,47.5,78474,Silent
+Switzerland,2010,male,55-74,796644,27.62,78474,Silent
+Switzerland,2010,male,35-54,1213413,22.0,78474,Generation X
+Switzerland,2010,male,25-34,519177,14.25,78474,Generation X
+Switzerland,2010,female,55-74,840601,11.42,78474,Silent
+Switzerland,2010,male,15-24,472649,9.94,78474,Millenials
+Switzerland,2010,female,75+,391055,9.21,78474,Silent
+Switzerland,2010,female,35-54,1193316,8.63,78474,Generation X
+Switzerland,2010,female,25-34,519835,6.16,78474,Generation X
+Switzerland,2010,female,15-24,455057,3.3,78474,Millenials
+Switzerland,2010,male,5-14,410594,0.49,78474,Generation Z
+Switzerland,2010,female,5-14,386816,0.0,78474,Generation Z
+Thailand,2010,male,75+,787665,18.41,5707,Silent
+Thailand,2010,male,25-34,5293421,13.0,5707,Generation X
+Thailand,2010,male,55-74,4075634,12.54,5707,Silent
+Thailand,2010,male,35-54,9786527,11.91,5707,Generation X
+Thailand,2010,male,15-24,4905031,7.89,5707,Millenials
+Thailand,2010,female,75+,1146473,3.58,5707,Silent
+Thailand,2010,female,55-74,4724470,3.47,5707,Silent
+Thailand,2010,female,35-54,10369541,3.33,5707,Generation X
+Thailand,2010,female,25-34,5237458,3.13,5707,Generation X
+Thailand,2010,female,15-24,4702548,2.55,5707,Millenials
+Thailand,2010,male,5-14,4496770,0.36,5707,Generation Z
+Thailand,2010,female,5-14,4244226,0.33,5707,Generation Z
+Trinidad and Tobago,2010,male,25-34,116664,32.57,18000,Generation X
+Trinidad and Tobago,2010,male,75+,14639,27.32,18000,Silent
+Trinidad and Tobago,2010,male,35-54,181184,26.49,18000,Generation X
+Trinidad and Tobago,2010,male,55-74,94335,22.26,18000,Silent
+Trinidad and Tobago,2010,male,15-24,110950,15.32,18000,Millenials
+Trinidad and Tobago,2010,female,15-24,108605,8.29,18000,Millenials
+Trinidad and Tobago,2010,female,25-34,116210,7.74,18000,Generation X
+Trinidad and Tobago,2010,female,35-54,183641,4.36,18000,Generation X
+Trinidad and Tobago,2010,female,55-74,102440,3.9,18000,Silent
+Trinidad and Tobago,2010,female,5-14,87897,1.14,18000,Generation Z
+Trinidad and Tobago,2010,male,5-14,90237,1.11,18000,Generation Z
+Trinidad and Tobago,2010,female,75+,24200,0.0,18000,Silent
+Turkey,2010,male,75+,841083,7.49,11525,Silent
+Turkey,2010,male,35-54,9318882,4.26,11525,Generation X
+Turkey,2010,male,55-74,4131848,4.24,11525,Silent
+Turkey,2010,male,25-34,6363299,3.9,11525,Generation X
+Turkey,2010,male,15-24,6411111,3.71,11525,Millenials
+Turkey,2010,female,75+,1226764,2.28,11525,Silent
+Turkey,2010,female,15-24,6118805,1.55,11525,Millenials
+Turkey,2010,female,55-74,4537405,1.26,11525,Silent
+Turkey,2010,female,35-54,9153406,1.2,11525,Generation X
+Turkey,2010,female,25-34,6170592,0.99,11525,Generation X
+Turkey,2010,male,5-14,6519482,0.41,11525,Generation Z
+Turkey,2010,female,5-14,6182454,0.4,11525,Generation Z
+Turkmenistan,2010,male,25-34,419805,9.53,4962,Generation X
+Turkmenistan,2010,male,15-24,554957,7.57,4962,Millenials
+Turkmenistan,2010,male,75+,29510,6.78,4962,Silent
+Turkmenistan,2010,male,35-54,559144,6.26,4962,Generation X
+Turkmenistan,2010,male,55-74,178934,5.59,4962,Silent
+Turkmenistan,2010,female,15-24,547882,4.02,4962,Millenials
+Turkmenistan,2010,female,25-34,424446,2.12,4962,Generation X
+Turkmenistan,2010,female,35-54,601270,1.5,4962,Generation X
+Turkmenistan,2010,female,5-14,477152,1.05,4962,Generation Z
+Turkmenistan,2010,female,55-74,217434,0.92,4962,Silent
+Turkmenistan,2010,male,5-14,488434,0.41,4962,Generation Z
+Turkmenistan,2010,female,75+,52217,0.0,4962,Silent
+Ukraine,2010,male,75+,804695,61.51,3141,Silent
+Ukraine,2010,male,55-74,3866232,47.26,3141,Silent
+Ukraine,2010,male,35-54,6203439,45.99,3141,Generation X
+Ukraine,2010,male,25-34,3589324,40.59,3141,Generation X
+Ukraine,2010,male,15-24,3271660,25.77,3141,Millenials
+Ukraine,2010,female,75+,2016954,15.02,3141,Silent
+Ukraine,2010,female,55-74,5860094,8.17,3141,Silent
+Ukraine,2010,female,35-54,6928455,6.61,3141,Generation X
+Ukraine,2010,female,15-24,3125122,4.93,3141,Millenials
+Ukraine,2010,female,25-34,3534635,4.81,3141,Generation X
+Ukraine,2010,male,5-14,2102478,1.66,3141,Generation Z
+Ukraine,2010,female,5-14,1993721,0.75,3141,Generation Z
+United Arab Emirates,2010,male,75+,10567,9.46,36964,Silent
+United Arab Emirates,2010,male,55-74,177232,2.82,36964,Silent
+United Arab Emirates,2010,female,25-34,587552,2.38,36964,Generation X
+United Arab Emirates,2010,female,55-74,55621,1.8,36964,Silent
+United Arab Emirates,2010,male,25-34,2271630,1.72,36964,Generation X
+United Arab Emirates,2010,female,15-24,385198,1.56,36964,Millenials
+United Arab Emirates,2010,male,35-54,2405804,1.41,36964,Generation X
+United Arab Emirates,2010,male,15-24,730245,1.37,36964,Millenials
+United Arab Emirates,2010,female,35-54,533458,0.19,36964,Generation X
+United Arab Emirates,2010,female,5-14,329210,0.0,36964,Generation Z
+United Arab Emirates,2010,female,75+,6996,0.0,36964,Silent
+United Arab Emirates,2010,male,5-14,346223,0.0,36964,Generation Z
+United Kingdom,2010,male,35-54,8592781,16.8,41798,Generation X
+United Kingdom,2010,male,25-34,4128369,12.43,41798,Generation X
+United Kingdom,2010,male,75+,1960939,11.58,41798,Silent
+United Kingdom,2010,male,55-74,6171080,11.28,41798,Silent
+United Kingdom,2010,male,15-24,4225926,8.14,41798,Millenials
+United Kingdom,2010,female,35-54,8788212,4.55,41798,Generation X
+United Kingdom,2010,female,55-74,6570278,3.53,41798,Silent
+United Kingdom,2010,female,25-34,4012797,3.31,41798,Generation X
+United Kingdom,2010,female,75+,2944062,3.02,41798,Silent
+United Kingdom,2010,female,15-24,3995780,2.65,41798,Millenials
+United Kingdom,2010,female,5-14,3426430,0.09,41798,Generation Z
+United Kingdom,2010,male,5-14,3586875,0.03,41798,Generation Z
+United States,2010,male,75+,7263596,36.03,51989,Silent
+United States,2010,male,35-54,42798501,27.49,51989,Generation X
+United States,2010,male,55-74,27667895,26.34,51989,Silent
+United States,2010,male,25-34,20409866,22.76,51989,Generation X
+United States,2010,male,15-24,22463069,16.79,51989,Millenials
+United States,2010,female,35-54,42711237,8.44,51989,Generation X
+United States,2010,female,55-74,30326595,6.83,51989,Silent
+United States,2010,female,25-34,20180858,5.41,51989,Generation X
+United States,2010,female,15-24,21395712,3.88,51989,Millenials
+United States,2010,female,75+,11163521,3.61,51989,Silent
+United States,2010,male,5-14,21207667,0.88,51989,Generation Z
+United States,2010,female,5-14,20250632,0.43,51989,Generation Z
+Uruguay,2010,male,75+,76869,87.16,12882,Silent
+Uruguay,2010,male,55-74,256883,41.26,12882,Silent
+Uruguay,2010,male,25-34,236974,32.49,12882,Generation X
+Uruguay,2010,male,15-24,262585,26.28,12882,Millenials
+Uruguay,2010,male,35-54,406214,24.86,12882,Generation X
+Uruguay,2010,female,55-74,308647,13.61,12882,Silent
+Uruguay,2010,female,75+,150385,9.31,12882,Silent
+Uruguay,2010,female,35-54,427551,8.89,12882,Generation X
+Uruguay,2010,female,25-34,235276,7.65,12882,Generation X
+Uruguay,2010,female,15-24,253651,4.34,12882,Millenials
+Uruguay,2010,female,5-14,251005,1.2,12882,Generation Z
+Uruguay,2010,male,5-14,261266,0.38,12882,Generation Z
+Uzbekistan,2010,male,35-54,3142694,11.81,1533,Generation X
+Uzbekistan,2010,male,25-34,2375259,9.89,1533,Generation X
+Uzbekistan,2010,male,55-74,1036963,9.84,1533,Silent
+Uzbekistan,2010,male,15-24,3208299,7.67,1533,Millenials
+Uzbekistan,2010,female,15-24,3098743,6.71,1533,Millenials
+Uzbekistan,2010,male,75+,196160,4.59,1533,Silent
+Uzbekistan,2010,female,25-34,2391172,3.89,1533,Generation X
+Uzbekistan,2010,female,35-54,3339076,3.02,1533,Generation X
+Uzbekistan,2010,male,5-14,2751752,1.74,1533,Generation Z
+Uzbekistan,2010,female,75+,322899,1.55,1533,Silent
+Uzbekistan,2010,female,55-74,1161422,1.38,1533,Silent
+Uzbekistan,2010,female,5-14,2627344,1.14,1533,Generation Z
